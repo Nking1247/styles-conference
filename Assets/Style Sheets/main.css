@@ -9,13 +9,17 @@ span,
 applet,
 object,
 iframe,
-h1,
+h1 {
+  color: blue;
+}
 h2,
 h3,
 h4,
 h5,
 h6,
-p,
+p {
+  color: red;
+}
 blockquote,
 pre,
 a,
